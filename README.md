@@ -9,4 +9,4 @@ Transform your plain Proxmox home page into a P〇rnHub-style logo.
 curl -fsSL https://kishiperia.github.io/phubmox/setup.sh | bash
 ```
 
-![イメージ](https://github.com/kishiperia/phubmox/blob/main/into.png)
+![イメージ](https://github.com/kishiperia/phubmox/blob/main/into.png?raw=true)
