@@ -1,3 +1,4 @@
+#!/bin/bash
 echo /usr/share/javascript/proxmox-widget-toolkit/images/proxmox_logo.svg
 echo ↓バックアップ
 echo /usr/share/javascript/proxmox-widget-toolkit/images/proxmox_logo.svg.bac
